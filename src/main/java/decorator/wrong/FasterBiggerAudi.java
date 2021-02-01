@@ -1,4 +1,4 @@
 package decorator.wrong;
 
-public class FasterBiggerAudi extends BiggerAudi{
+public class FasterBiggerAudi extends BiggerAudi {
 }
